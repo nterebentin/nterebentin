@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/nterebentin/nterebentin/main/banner.png)
-![](https://komarev.com/ghpvc/?username=nterebentin&color=blue)
+![](https://komarev.com/ghpvc/?username=nterebentin&color=blueviolet)
 <h1 align="center">Hi :cherry_blossom: I'm Nursen Özcan</h1>
 <h3 align="center">Tech Enthusiast | Passionate Developer | Lifelong Learner</h3>
 
