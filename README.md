@@ -1,6 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/nterebentin/nterebentin/main/banner.png)
-<h1 align="center">Hi 👋, I'm Nursen Özcan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+![](https://komarev.com/ghpvc/?username=nterebentin&color=blue)
+<h1 align="center">Hi :cherry_blossom: I'm Nursen Özcan</h1>
+<h3 align="center">Tech Enthusiast | Passionate Developer | Lifelong Learner</h3>
 
 - 🔭 I’m currently working on **React**
 
