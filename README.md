@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/nursen özcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nursen özcan" height="30" width="40" /></a>
 <a href="https://instagram.com/nterebentin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nterebentin" height="30" width="40" /></a>
 <a href="https://medium.com/@nterebentin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nterebentin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCDitFls_JmDlTV5sMFkxj9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nterebentin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDitFls_JmDlTV5sMFkxj9w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nterebentin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
