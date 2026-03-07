@@ -72,11 +72,8 @@ Currently I work extensively with **SQL, Python and PostgreSQL** to design scala
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nterebentin&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nterebentin&layout=compact&theme=tokyonight"/>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nterebentin&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nterebentin&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
