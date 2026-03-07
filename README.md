@@ -11,11 +11,11 @@
 
 ## 👩‍💻 About Me
 
-I am a **Data Analytics Engineer** focused on transforming raw data into meaningful insights and reliable data models.
+I am a **Data Analytics Engineer** focused on building **data pipelines, ETL workflows, and analytical data models**.
 
-I enjoy working on **data pipelines, ETL workflows, and analytical data models** that help organizations make better decisions.
+I enjoy designing **scalable data workflows** and transforming raw data into **actionable insights** using **SQL, Python, and PostgreSQL**.
 
-Currently I work extensively with **SQL, Python and PostgreSQL** to design scalable data workflows and analytics systems.
+💡 Interested in **Data Engineering, Analytics, and AI-driven systems**
 
 🎯 My long-term goal is to specialize in **Data Engineering and Advanced Analytics**.
 
@@ -24,9 +24,9 @@ Currently I work extensively with **SQL, Python and PostgreSQL** to design scala
 ## 🚀 What I'm Working On
 
 - Designing **data models and analytical fact tables**
-- Building **ETL pipelines using Python**
-- Working with **PostgreSQL and SQL-based transformations**
-- Improving my skills in **Data Engineering & AI fundamentals**
+- Building **ETL pipelines with Python and Apache NiFi**
+- Developing **PostgreSQL-based data transformations**
+- Improving my skills in **Data Engineering & AI**
 
 ---
 
@@ -40,27 +40,32 @@ Currently I work extensively with **SQL, Python and PostgreSQL** to design scala
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Data & Analytics
+## Data Engineering
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+## Programming
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 </p>
 
-### Tools & Environment
+## Tools
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
 
-### AI & Data Science
+## AI & Data Science
 
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
@@ -69,20 +74,27 @@ Currently I work extensively with **SQL, Python and PostgreSQL** to design scala
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nterebentin&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nterebentin&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nterebentin&theme=tokyonight" />
-</p>
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nterebentin&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nterebentin&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p>
 
@@ -103,7 +115,5 @@ Currently I work extensively with **SQL, Python and PostgreSQL** to design scala
 ---
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/nterebentin/nterebentin/output/github-contribution-grid-snake.svg"/>
-
 </p>
