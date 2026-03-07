@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/nterebentin/nterebentin/main/banner.png)
+![MasterHead](https://raw.githubusercontent.com/nterebentin/nterebentin/main/bannerdae.png)
 
 <h1 align="center">Hi 👋 I'm Nursen Özcan Karadeniz</h1>
 <h3 align="center">Data Analytics Engineer | Data Engineering Enthusiast | Building Data-Driven Systems</h3>
