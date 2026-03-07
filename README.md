@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nterebentin/nterebentin/main/bannerdae.png" width="950"/>
+  <img src="https://raw.githubusercontent.com/nterebentin/nterebentin/main/bannerdaen.png" width="950"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Nursen Özcan Karadeniz</h1>
